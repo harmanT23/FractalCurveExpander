@@ -4,8 +4,7 @@
 AUTHOR Harmanprit Tatla
 VERSION 2015 - April - 9
 
-PURPOSE: To plot expansions of a fractal curve, and to plot the distribution
-of word frequencies in a book.
+PURPOSE: To plot expansions of a fractal curve.
 """
 #imports
 import time
